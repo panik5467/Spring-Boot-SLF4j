@@ -1,0 +1,10 @@
+2022-01-07 22:10:42,762 INFO com.mkyong.StartWebApplication [restartedMain] Starting StartWebApplication on DESKTOP-1TN01LP with PID 7140 (C:\JAVA\projets\logging-slf4j-logback\target\classes started by PC in C:\JAVA\projets\logging-slf4j-logback)
+2022-01-07 22:10:42,766 DEBUG com.mkyong.StartWebApplication [restartedMain] Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2022-01-07 22:10:42,768 INFO com.mkyong.StartWebApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-01-07 22:10:45,122 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2022-01-07 22:10:45,123 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.14]
+2022-01-07 22:10:45,146 INFO org.apache.catalina.core.AprLifecycleListener [restartedMain] The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\JAVA\jdk-11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;c:\windows;c:\windows\system32;C:\JAVA\maven\bin;C:\JAVA\jdk-11\bin;.]
+2022-01-07 22:10:45,282 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-01-07 22:10:46,043 INFO com.mkyong.StartWebApplication [restartedMain] Started StartWebApplication in 3.907 seconds (JVM running for 4.468)
+2022-01-07 22:11:44,581 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-01-07 22:11:44,624 DEBUG com.mkyong.HelloController [http-nio-8080-exec-2] Hello from Logback [1, 2, 3, 4, 5]
